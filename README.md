@@ -36,7 +36,7 @@ Tempo Moderation is a Discord bot designed to help manage your server efficientl
    - Create config.json with bot token and bot user Id
    - Contents:
      ```json
-     {"token":, "clientId":}
+     {"token":, "clientId":, "logchannelid":, "errorchannelid":}
 
 ## Usage
 
